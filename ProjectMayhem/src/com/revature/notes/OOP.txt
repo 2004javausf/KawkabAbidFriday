@@ -1,0 +1,39 @@
+Inheritance
+	
+	when a programming language language allows for a hierarchy of object
+	Child objects obtain states and behavior from parent objects.
+	Multiple inheritance?? NO! ( kinda yes with interfaces)
+	
+	**Diamond problem**
+	
+Encapsulation
+	
+	when you wrap and protect data fields, protect data fields, preventing manipulation outside of the class
+	Usually require getter and setter method to change these value
+	Conceal internal state of object. Preserving integrity
+
+Polymorphsim
+
+	the ability for the programming language to be able to tell the difference between object and methods of same name with different variable/class 
+types	
+	Overriding - same name, same parameters, different behavior.
+	Overloading - same name, different parameter, different behavior.
+	Yes, many forms- :/
+	Multiple "is-a" relationship
+	Object>Animal>Cat
+	Animal IS-a Animal, and also and Object
+	Cat is a cat, animal and object
+	Coveriance
+	
+Abstraction
+	sometimes omitted from pilliars of OOP
+	Hiding the implementation details
+	"What it does, NOT how it does it"
+	Expsosing only functionality
+	Abstract class - abstract methods have no implementation
+	
+	
+	
+	
+	
+	

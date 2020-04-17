@@ -1,0 +1,18 @@
+in Java, we have primitive and reference type
+Primmitive - 8 just value
+	char 
+	boolean
+	byte
+	short
+	int
+	long
+	float
+	double
+	**look up bit size**
+Reference - an object; more than just a value
+
+Java is a passes by value
+it passes the value of reference rather than the reference themselves.
+Numeric type conversions
+	**look out for loss of precision
+ 

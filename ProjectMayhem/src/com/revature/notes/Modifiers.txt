@@ -1,0 +1,55 @@
+Access Modifiers
+4!
+Public, private, protected, default
+
+Private
+	Class level access.
+	Can have private variable, method, inner class, and constructors
+
+Public
+	any class in any package can access
+	can apply to classes, variable, methods, and constructors
+
+Protected
+	Accessible through inheritance within package
+	A child class of a super class with a protected method will be able to inherit the protected members of that class.
+	Can be applied to inner classes, variable, methods, and constructors.
+
+Default
+	don't use default keyword
+	Package level access
+	"package private"
+	can not gain access by importing the package
+	
+Other Modifiers
+
+Static vs Final
+
+static - belongs to class
+		 variable, methods, code blocks, inner class
+
+final - 
+	variable - value cannot be changed.
+	method - cannot be overridden.
+	class - cannot be extended 
+
+Static AND Final variable
+	basically a constant
+	
+
+
+
+
+
+
+
+
+
+
+
+
+	
+		
+		
+	 
+	 
